@@ -27,4 +27,5 @@ if __name__ == "__main__":
     
     train(args.epochs, args.lr)
 
-    #Updated
+    #Updated 2
+    ### So what's up? 
