@@ -1,0 +1,2 @@
+Training completed on cuda
+Final loss: 0.3333
